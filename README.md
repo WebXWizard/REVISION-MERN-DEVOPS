@@ -7,6 +7,12 @@ This repository is my structured revision workspace for:
 - AWS cloud services
 - CI/CD, containers, orchestration, IaC, and monitoring
 
+## Connect With Me
+
+- Portfolio: [devops-portfolio-kappa.vercel.app](https://devops-portfolio-kappa.vercel.app/)
+- LinkedIn: [shahe-alam-6a552b320](https://www.linkedin.com/in/shahe-alam-6a552b320/)
+- GitHub: [WebXWizard](https://github.com/WebXWizard)
+
 Main revision vaults:
 
 - `MERN-Revision`
