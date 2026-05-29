@@ -16,7 +16,15 @@ This repository is my structured revision workspace for:
 Main revision vaults:
 
 - `MERN-Revision`
+- `MERN Stack Developer`
 - `DevOps-Cloud-AWS-Revision`
+- `Site Reliability Engineer`
+- `Cloud Engineer`
+- `Azure DevOps`
+- `Platform Engineer`
+- `Security Engineer`
+- `DevOps Engineer`
+- `Automation Architect`
 
 Goal:
 
@@ -387,6 +395,294 @@ For fresher interviews, focus on:
 - Docker basics
 - Honest project challenges
 - HR communication
+
+---
+
+## Part 3: Site Reliability Engineer Revision
+
+Folder:
+
+```txt
+Site Reliability Engineer
+```
+
+Main topics:
+
+- SRE mindset, toil reduction, and reliability culture
+- SLIs, SLOs, SLAs, and error budgets
+- Linux, networking, and production troubleshooting
+- Observability with metrics, logs, traces, dashboards, and alerts
+- Incident management, on-call, runbooks, and postmortems
+- Reliability patterns, disaster recovery, and safe changes
+- Automation with Bash and Python
+- Cloud and Kubernetes operations
+- CI/CD release engineering
+- Capacity planning, performance, security, and compliance
+
+Suggested SRE order:
+
+1. SRE mindset and SLOs
+2. Linux and networking troubleshooting
+3. Observability and alerting
+4. Incident response and postmortems
+5. Reliability engineering and disaster recovery
+6. Automation and health checks
+7. Kubernetes and cloud operations
+8. Release engineering and capacity planning
+9. SRE projects and mock interviews
+
+---
+
+## Part 4: Cloud Engineer Revision
+
+Folder:
+
+```txt
+Cloud Engineer
+```
+
+Main topics:
+
+- Cloud fundamentals, service models, regions, and shared responsibility
+- Linux, networking, DNS, HTTP, TLS, and security basics
+- AWS IAM, EC2, S3, VPC, CloudWatch, Lambda, and RDS
+- Compute, storage, databases, and serverless services
+- VPC design, public and private subnets, DNS, CDN, and load balancing
+- Monitoring, logging, backups, patching, and cloud operations
+- Infrastructure as Code, Terraform, CloudFormation, CI/CD, and scripting
+- Docker, container registry, ECS, EKS, and Kubernetes basics
+- High availability, disaster recovery, migration, and scaling
+- Cost optimization, tagging, budgets, governance, and multi-cloud basics
+
+Suggested Cloud Engineer order:
+
+1. Cloud fundamentals
+2. Linux, networking, and security
+3. AWS IAM and core services
+4. Compute, storage, and databases
+5. VPC, DNS, CDN, and load balancing
+6. Monitoring, logging, and operations
+7. Terraform, CI/CD, and automation
+8. Containers and Kubernetes
+9. High availability, disaster recovery, and cost optimization
+10. Projects and mock interviews
+
+---
+
+## Part 5: Azure DevOps Revision
+
+Folder:
+
+```txt
+Azure DevOps
+```
+
+Main topics:
+
+- Azure fundamentals, subscriptions, resource groups, identity, and RBAC
+- Azure DevOps Repos, Boards, Pipelines, Artifacts, and Test Plans
+- Git workflows, pull requests, branch policies, and code reviews
+- YAML pipelines, triggers, variables, stages, jobs, tasks, and templates
+- CI/CD releases, environments, approvals, gates, deployment safety, and rollback
+- Agents, agent pools, self-hosted agents, and service connections
+- Azure Artifacts, feeds, packages, and versioning
+- Docker, Azure Container Registry, AKS, Kubernetes, and Helm
+- Terraform, Bicep, ARM templates, and Infrastructure as Code
+- Azure Monitor, Log Analytics, Key Vault, Azure Policy, and pipeline security
+
+Suggested Azure DevOps order:
+
+1. Azure and Azure DevOps fundamentals
+2. Git, Azure Repos, and branch policies
+3. Azure Boards and agile planning
+4. YAML CI pipelines
+5. CD releases, environments, approvals, and rollback
+6. Agents, pools, service connections, and permissions
+7. Artifacts, Docker, ACR, AKS, and Kubernetes
+8. Terraform, Bicep, monitoring, security, and governance
+9. Testing, quality gates, projects, and mock interviews
+
+---
+
+## Part 6: Platform Engineer Revision
+
+Folder:
+
+```txt
+Platform Engineer
+```
+
+Main topics:
+
+- Platform Engineering fundamentals, developer experience, and platform as a product
+- Internal Developer Platform, golden paths, paved roads, and guardrails
+- Linux, networking, cloud, IAM, RBAC, and troubleshooting basics
+- Kubernetes container platform, multi-tenancy, ingress, storage, and cluster operations
+- Infrastructure as Code, Terraform modules, Crossplane, provisioning, and automation safety
+- CI/CD, reusable pipeline templates, GitOps, Argo CD, Flux, and release strategies
+- Observability, platform SLOs, dashboards, alerts, runbooks, and incident operations
+- Secrets management, policy as code, supply chain security, and compliance guardrails
+- Service catalog, software templates, ownership metadata, scorecards, and TechDocs
+- Platform APIs, developer portals, CLIs, request workflows, reliability, scalability, and cost
+
+Suggested Platform Engineer order:
+
+1. Platform Engineering fundamentals
+2. Linux, networking, and cloud basics
+3. Developer experience and Internal Developer Platform
+4. Kubernetes and container platform
+5. IaC, provisioning, and automation
+6. CI/CD and GitOps
+7. Observability, operations, and platform SLOs
+8. Security, secrets, policy, and compliance
+9. Service catalog, templates, self-service, and platform APIs
+10. Reliability, scalability, cost, team topology, projects, and mock interviews
+
+---
+
+## Part 7: MERN Stack Developer Revision
+
+Folder:
+
+```txt
+MERN Stack Developer
+```
+
+Main topics:
+
+- HTML, CSS, accessibility, responsive design, and browser fundamentals
+- JavaScript core, async programming, event loop, DOM, fetch, and output questions
+- TypeScript basics for React and backend API types
+- React components, props, state, hooks, forms, routing, and API integration
+- Advanced React state, Context API, Redux Toolkit, React Query, and performance
+- Next.js App Router, rendering strategies, server and client components, and deployment
+- Node.js runtime, modules, npm, event loop, streams, environment variables, and errors
+- Express.js REST APIs, middleware, controllers, validation, CORS, cookies, and error handling
+- MongoDB, Mongoose, schema design, relationships, indexes, and aggregation
+- Authentication, authorization, JWT, cookies, sessions, refresh tokens, and RBAC
+- Testing, debugging, logging, linting, deployment, DevOps basics, and system design
+- MERN projects, project explanation, mock interviews, HR, and rapid revision
+
+Suggested MERN Stack Developer order:
+
+1. HTML, CSS, and browser fundamentals
+2. JavaScript core and async programming
+3. TypeScript basics
+4. React fundamentals
+5. Advanced React state and performance
+6. Next.js basics
+7. Node.js and Express.js backend development
+8. MongoDB, Mongoose, authentication, and authorization
+9. Testing, deployment, system design, and performance
+10. Projects, mock interviews, HR, and rapid revision
+
+---
+
+## Part 8: Security Engineer Revision
+
+Folder:
+
+```txt
+Security Engineer
+```
+
+Main topics:
+
+- Security fundamentals, CIA triad, threat modeling, risk, and defense in depth
+- Network security, firewalls, segmentation, DNS, TLS, VPN, IDS, IPS, and WAF
+- Linux and endpoint hardening, logging, patching, and secure access
+- Cloud security, IAM, least privilege, private networking, storage security, and audit logs
+- Web application security, OWASP Top 10, API security, auth security, and rate limiting
+- DevSecOps, SAST, DAST, SCA, secret scanning, image scanning, and pipeline gates
+- SOC basics, SIEM, alert triage, incident response, and threat hunting
+- Vulnerability management, CVSS, remediation tracking, and risk acceptance
+- Secrets management, cryptography, hashing, encryption, PKI, and certificates
+- Kubernetes security, RBAC, network policies, admission controls, compliance, and GRC
+
+Suggested Security Engineer order:
+
+1. Security fundamentals
+2. Network security
+3. Linux and endpoint security
+4. Cloud security and IAM
+5. Web and API security
+6. DevSecOps
+7. SOC, detection, and incident response
+8. Vulnerability management, secrets, and cryptography
+9. Kubernetes security, compliance, and GRC
+10. Projects, mock interviews, and rapid revision
+
+---
+
+## Part 9: DevOps Engineer Revision
+
+Folder:
+
+```txt
+DevOps Engineer
+```
+
+Main topics:
+
+- Linux, networking, security, troubleshooting, and production server basics
+- Git, GitHub, branching, pull requests, release flow, and team collaboration
+- Bash and Python scripting, cron jobs, health checks, and safe automation
+- CI/CD pipelines, Jenkins, GitHub Actions, artifacts, secrets, and rollback
+- Docker, Dockerfile, Compose, registries, image tagging, and container networking
+- Kubernetes architecture, pods, deployments, services, ingress, Helm, and debugging
+- Cloud fundamentals across AWS, Azure, and Google Cloud
+- Terraform, Infrastructure as Code, state, modules, and provisioning workflows
+- Ansible, configuration management, idempotency, and drift control
+- Observability, Prometheus, Grafana, logs, alerts, SRE basics, incidents, and DevSecOps
+
+Suggested DevOps Engineer order:
+
+1. Linux, networking, and security
+2. Git and collaboration
+3. Bash and Python automation
+4. CI/CD pipelines
+5. Docker and containers
+6. Kubernetes orchestration
+7. Cloud platforms
+8. Terraform and Ansible
+9. Monitoring, incidents, and DevSecOps
+10. Projects, mock interviews, and rapid revision
+
+---
+
+## Part 10: Automation Architect Revision
+
+Folder:
+
+```txt
+Automation Architect
+```
+
+Main topics:
+
+- Automation fundamentals, strategy, ROI, standards, governance, and lifecycle ownership
+- Process discovery, workflow mapping, automation candidate selection, and requirements
+- Python, PowerShell, Bash, reusable scripts, logging, retries, and error handling
+- Workflow orchestration, scheduling, dependencies, approvals, and human-in-the-loop design
+- API integration, webhooks, queues, event-driven automation, and integration patterns
+- Infrastructure automation, Terraform, Ansible, Crossplane, provisioning, and drift control
+- CI/CD release automation, environment promotion, quality gates, approvals, and rollback
+- Cloud automation, serverless automation, Kubernetes automation, and platform self-service
+- RPA, low-code automation, bot governance, testing automation, observability, and AIOps basics
+- Security, audit trails, compliance, scalability, reliability, cost, and automation projects
+
+Suggested Automation Architect order:
+
+1. Automation fundamentals and strategy
+2. Process discovery and assessment
+3. Scripting and reusable automation
+4. Workflow orchestration
+5. API and event-driven integration
+6. Infrastructure and CI/CD automation
+7. Cloud, platform, RPA, and low-code automation
+8. Testing, observability, and auto-remediation
+9. Security, governance, reliability, scalability, and cost
+10. Projects, mock interviews, and rapid revision
 
 Final reminder:
 
